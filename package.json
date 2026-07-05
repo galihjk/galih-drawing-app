@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue": "latest",
-    "vite": "latest",
     "vue": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^8.1.3"
+  }
 }
